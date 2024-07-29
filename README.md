@@ -12,6 +12,7 @@ Tick-Tock Tracker: Crisp, intuitive stopwatch crafted with HTML, CSS, and JavaSc
   
 ## Screenshots
 
+![Screenshot 2024-07-29 190041](https://github.com/user-attachments/assets/dfd0e0ff-b480-4a7c-b7cd-38e5da06c0c2)
 
 
 
